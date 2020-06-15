@@ -1,7 +1,7 @@
 FoV-surface-calculator
 Simple command line python calculator made for calculating the surface a campera, or other optical device, can see at a given distance.
 
-PYTHON REQUIRED +obviosly+
+PYTHON REQUIRED *obviosly*
 
 Originally made to easily calculate ground surface and maximum height a which a drone equipped with a directional LIDAR.
 
