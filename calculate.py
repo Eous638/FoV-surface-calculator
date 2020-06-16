@@ -23,10 +23,8 @@ def convert(degrees):
 
 cos_r = convert(rh) #calculates cos in radians
 
-if default =='y':
-    custom_h = 'n'
-else:
-    custom_h = input('do you want to use a max height? (y/n) ')
+
+custom_h = input('do you want to use the maximum effective height (calculated from previous values))? (y/n) ')
 
 # h = heigt
 
